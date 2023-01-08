@@ -1,3 +1,3 @@
 # Demo
 
-Description: This is just a demo
+Description: This is just a demo!
